@@ -1,0 +1,26 @@
+freq 145
+clearconfig
+clearconfig 1234
+mode
+color
+color -3 0x404040
+sweep
+deviceid
+freq
+frequencies
+mode high input
+mode low input
+reset
+mode high
+mode low
+color -3 0x303030
+saveconfig
+version
+help
+edelay
+trace
+resume
+0x20 0xef 0x00
+20ef00
+gttre
+20ef0

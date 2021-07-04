@@ -1,0 +1,5 @@
+help
+zzzzzzzzzzz
+AT+UART=460800,0,0
+AT
+AT+UART=921600,0,0

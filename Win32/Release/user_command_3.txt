@@ -1,0 +1,12 @@
+Fix colours
+
+# you can add comments like this, they don't get sent to the VNA
+
+# reduce the grid intensity
+color 2 0x202020
+
+# change trace 4 colour
+color 9 0xF06030
+
+# needs saving
+saveconfig
